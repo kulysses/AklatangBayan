@@ -2,5 +2,5 @@ field,display_name,browse_link,external_link
 title,Title,
 director,Director,
 cast,Cast,
-genre,Genre,
+genre,Genre,true
 synopsis,Synopsis
