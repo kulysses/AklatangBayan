@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
 director,Director,true,,Director
 genre,Genre,true,,Genre
-year, Year Released,true,,Year Released
+date, Year Released,true,,Year Released
