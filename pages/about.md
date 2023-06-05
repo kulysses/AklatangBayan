@@ -10,7 +10,7 @@ credits:
 
 {% include feature/jumbotron.html objectid="https://www.ikot.ph/wp-content/uploads/2021/06/Special-Pub-june-19-min-1200x674.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection;Creators of the Site" %}
 
 ## About the Collection
 
