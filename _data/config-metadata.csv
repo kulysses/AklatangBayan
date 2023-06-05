@@ -4,4 +4,4 @@ director,Director,true
 cast,Cast,
 genre,Genre,true
 synopsis,Synopsis
-date,Year
+date,Year,true
