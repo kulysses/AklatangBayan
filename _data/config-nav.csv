@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Genres,/subjects.html
-Drama,/browse.html#drama,Genres
+All Genres,/subjects.html
+Featured Genres,
+Drama,/browse.html#drama,Featured Genres
 About the Site,/about.html
