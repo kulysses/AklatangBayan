@@ -23,3 +23,18 @@ This collection is made by a group of 5 movie enthusiasts from the University of
 We're sincerely hoping that our collection aids in fostering more appreciation and support towards the outstanding Filipino movie scene!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+
+## References
+
+We credit the following sites as our references for the information added in this site.
+
+For movie descriptions:
+
+[Cinemalaya](https://cinemalaya.org/#)
+[IMDb](https://www.imdb.com/?ref_=nv_home)
+[Letterboxd](https://letterboxd.com/)
+
+For movie posters:
+
+[IMDb](https://www.imdb.com/?ref_=nv_home)
+[Letterboxd](https://letterboxd.com/)
