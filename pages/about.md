@@ -10,7 +10,7 @@ credits:
 
 {% include feature/jumbotron.html objectid="https://www.ikot.ph/wp-content/uploads/2021/06/Special-Pub-june-19-min-1200x674.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Creators of the Site" %}
+{% include feature/nav-menu.html sections="About the Collection;Creators of the Site;References" %}
 
 ## About the Collection
 
@@ -28,13 +28,18 @@ We're sincerely hoping that our collection aids in fostering more appreciation a
 
 We credit the following sites as our references for the information added in this site.
 
-For movie descriptions:
+Cinemalaya. (n.d.). Full Length. https://cinemalaya.org/#
 
-[Cinemalaya](https://cinemalaya.org/#)
-[IMDb](https://www.imdb.com/?ref_=nv_home)
-[Letterboxd](https://letterboxd.com/)
+Cinemalaya. (n.d.). Full Length. https://cinemalaya.org/#
 
-For movie posters:
+Hawson, F. (2014, August 10). Review: 'Separados' offers a decidedly male viewpoint. ABS CBN NEWS. https://news.abs-cbn.com/lifestyle/08/10/14/review-separados-offers-decidedly-male-viewpoint
 
-[IMDb](https://www.imdb.com/?ref_=nv_home)
-[Letterboxd](https://letterboxd.com/)
+IMDb. (n.d.). Full Length. https://www.imdb.com/?ref_=nv_home
+
+INQUIRER.net. (2015, July 31). Brillante Mendoza’s ‘Taklub’ opens 11th Cinemalaya. https://entertainment.inquirer.net/175354/brillante-mendozas-taklub-opens-11th-cinemalaya
+
+Letterboxd. (n.d.). Full Length. https://letterboxd.com/
+
+Tpacio-Aplaon, R. (2023, May 19). Throbbing pulse in Alix's 'Porno'. RAPPLER. https://www.rappler.com/entertainment/movies/35394-throbbing-pulse-alix-porno/
+
+
