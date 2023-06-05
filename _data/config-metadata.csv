@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
-director,Director,
+director,Director,true
 cast,Cast,
 genre,Genre,true
 synopsis,Synopsis
+date,Year
