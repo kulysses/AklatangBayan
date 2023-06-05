@@ -1,3 +1,3 @@
 field,display_name,btn,hidden,sort_name
-director,Director,true,,true
-genre,Genre,true,,true
+director,Director,true,,true,Director
+genre,Genre,true,,true,Genre
