@@ -26,9 +26,7 @@ We're sincerely hoping that our collection aids in fostering more appreciation a
 
 ## References
 
-We credit the following sites as our references for the information added in this site.
-
-Cinemalaya. (n.d.). Full Length. https://cinemalaya.org/#
+We credit the following online resources as our references for the information added to this site.
 
 Cinemalaya. (n.d.). Full Length. https://cinemalaya.org/#
 
