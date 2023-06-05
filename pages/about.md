@@ -14,14 +14,6 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+A Decade of Indie is a collection of Filipino independent films, specifically Cinemalaya and CinemaOne Originals from 2010-2020. Here, we provide important information and essential details about Filipino indie films to help you get to know them better. As Iskolars ng Bayan, we believe that we do not only learn through our academics – but also through lessons about love, humanity, justice, and the likes given by the artistic creations and magnum opuses of Filipino artists themselves. With that, we also want to impart the wisdom and influence these films have bestowed upon us by being the source of must-watch Filipino movies. Through one click, you may already witness the culture and artistry embedded in these films – showcasing the legacy of filmmaking in the Philippines.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
