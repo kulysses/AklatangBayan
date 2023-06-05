@@ -1,5 +1,5 @@
 field,index,display
 title,true,true
 director,true,true
-cast,true,false
+cast,true,true
 genre,true,true
