@@ -1,3 +1,5 @@
 field,display_name
+title, Title
 director,Director
 genre,Genre
+date, Year Released
