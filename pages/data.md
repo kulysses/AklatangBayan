@@ -7,4 +7,4 @@ permalink: /data.html
 ---
 
 ## Film List
-Here is the full list of movies included in our site. Navigate your way through the movies as you wish!
+Here is the full list of movies included in our site. Navigate through our film collection as you wish!
